@@ -5,4 +5,4 @@ A Convolutional Neural Network (CNN) based machine learning project designed for
 ## Project Overview
 - **Objective:** To classify chest X-ray images accurately using deep learning.
 - **Technologies Used:** Python, Google Colab, TensorFlow/Keras, CNN.
--
+
